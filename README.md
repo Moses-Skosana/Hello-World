@@ -1,2 +1,2 @@
-# Changes to the Hello-World project.
-This the edited branch
+# Merged Hello-World project.
+Edited-branch and Main branch have been merged
